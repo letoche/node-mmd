@@ -19,7 +19,7 @@
     ,"README.md"
     ,"Makefile"
     ,"binding.gyp"
-    ,"bin/preinstall.sh"
+    ,"bin/preinstall-32bits.sh"
   ]
   ,"scripts": {
         "preinstall": "./bin/preinstall-32bits.sh",
