@@ -22,7 +22,7 @@
     ,"bin/preinstall.sh"
   ]
   ,"scripts": {
-        "preinstall": "./bin/preinstall.sh",
+        "preinstall": "./bin/preinstall-32bits.sh",
         "test":"make test"
     }
   ,"repository":{
